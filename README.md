@@ -1,6 +1,6 @@
 # Pilot 
 <p>Im trying to master Git
-and <i>this is the beginning.</i></p>
+and this is the beginning.</p>
 <b>Long live and Prosper.</b>
 
 ```
